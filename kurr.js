@@ -1093,7 +1093,7 @@ id
 
 contoh : .domain2 namahost|ip server
 
-𝗬 𝗢 𝗦 𝗢 𝗞 𝗔 - 𝗕 𝗢 𝗧 𝗭 `
+ 𝗕 𝗢 𝗧 𝗭 `
                 let message = await prepareWAMessageMedia({ image: fs.readFileSync('./lib/assets/logo.jpg') }, { upload: kurr.waUploadToServer })
                 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
@@ -1138,7 +1138,7 @@ if(from != "ID GROUPNYA") return m.reply("maaf su fitur ini dapet di gunakan gro
 
 ┏━┅┅►❝𝐃𝐎𝐌𝐀𝐈𝐍 𝐏𝐀𝐒𝐓𝐄❞◄━┅┅┓
 ┃ 
-┃┊◎ 
+┃┊◎ viral-2022.my.id
 ┃ 
 ┃┊◎ 
 ┃ 
@@ -1152,7 +1152,7 @@ if(from != "ID GROUPNYA") return m.reply("maaf su fitur ini dapet di gunakan gro
 
 contoh : https://yosokaganteng.barux2022.tk
 
-𝗬 𝗢 𝗦 𝗢 𝗞 𝗔 - 𝗕 𝗢 𝗧 𝗭 `
+ 𝗕 𝗢 𝗧 𝗭 `
                 let message = await prepareWAMessageMedia({ image: fs.readFileSync('./lib/assets/logo.jpg') }, { upload: kurr.waUploadToServer })
                 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
